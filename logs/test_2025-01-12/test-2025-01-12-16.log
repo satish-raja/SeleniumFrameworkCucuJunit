@@ -1,0 +1,118 @@
+2025-01-12T16:54:46,365 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:54:47,878 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (bec84ad3a3216b33170e0a131c21e4ac) at WebDriverHooks: setUp
+2025-01-12T16:54:50,837 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:54:51,496 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:54:51,500 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T16:54:51,537 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-12T16:54:51,583 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-12T16:54:51,643 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:54:51,643 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:54:51,645 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T16:55:10,279 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:55:11,463 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ed94dcc661fd541e258ec3785d576d4e) at WebDriverHooks: setUp
+2025-01-12T16:55:14,034 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:55:14,685 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:55:14,690 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T16:55:14,739 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T16:55:14,793 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T16:55:16,055 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:55:16,055 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:55:16,057 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T16:55:16,714 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:55:17,360 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8791c82be114e63f6acaec6bf1d4fb25) at WebDriverHooks: setUp
+2025-01-12T16:55:19,903 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:55:20,441 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:55:20,443 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T16:55:20,496 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T16:55:20,552 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T16:55:21,550 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:55:21,550 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:55:21,551 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T16:55:22,198 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:55:22,858 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8201863658b6e62a9674686abe2ee65e) at WebDriverHooks: setUp
+2025-01-12T16:55:25,306 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:55:25,848 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:55:25,849 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T16:55:25,905 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T16:55:25,961 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T16:55:26,923 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:55:26,923 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:55:26,925 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T16:55:40,755 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:55:41,959 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (5482aeb90813759484f2c8b7480e7c4f) at WebDriverHooks: setUp
+2025-01-12T16:55:44,801 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:55:45,452 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:55:45,456 [main] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T16:55:45,503 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T16:55:45,559 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T16:55:46,840 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:55:46,840 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:55:46,841 [main] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T16:55:47,379 [main] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T16:55:48,856 [main] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T16:55:48,856 [main] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T16:55:59,910 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:56:01,116 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (eef4b358a6362620ac6bb0561b5d237c) at WebDriverHooks: setUp
+2025-01-12T16:56:03,978 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:56:04,635 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:56:04,640 [main] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T16:56:05,311 [main] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T16:56:05,312 [main] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T16:56:05,856 [main] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T16:56:05,911 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T16:56:05,912 [main] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T16:56:05,966 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:56:05,966 [main] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T16:58:26,134 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:58:27,327 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (b352bcc9030271488d887188c54f719e) at WebDriverHooks: setUp
+2025-01-12T16:58:30,175 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:58:30,829 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:58:30,833 [main] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T16:58:30,879 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T16:58:30,937 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T16:58:32,210 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:58:32,210 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:58:32,211 [main] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T16:58:32,753 [main] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T16:58:34,275 [main] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T16:58:34,276 [main] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T16:58:49,582 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:58:50,780 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (dc9d043b7781b3c1f3e75bd0ed201adc) at WebDriverHooks: setUp
+2025-01-12T16:58:54,013 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:58:54,671 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:58:54,675 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T16:58:54,719 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T16:58:54,773 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T16:58:54,831 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:58:54,832 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:58:54,833 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T16:58:56,647 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:58:57,305 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (793c0ca295afe29d8df4db8e411bca2a) at WebDriverHooks: setUp
+2025-01-12T16:59:00,227 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:59:00,769 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:59:00,771 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T16:59:00,823 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T16:59:00,879 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T16:59:01,924 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:59:01,924 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:59:01,925 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T16:59:02,568 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:59:03,215 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (f755608500674a69bdf8cd80d229442a) at WebDriverHooks: setUp
+2025-01-12T16:59:06,091 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:59:06,639 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:59:06,640 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T16:59:06,701 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T16:59:06,753 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T16:59:07,747 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:59:07,747 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:59:07,749 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T16:59:22,561 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T16:59:23,762 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (6353b2f29a309b4b168b6379d1e427b5) at WebDriverHooks: setUp
+2025-01-12T16:59:26,292 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T16:59:26,944 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T16:59:26,948 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T16:59:26,986 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-12T16:59:27,037 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-12T16:59:27,100 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T16:59:27,100 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T16:59:27,101 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.

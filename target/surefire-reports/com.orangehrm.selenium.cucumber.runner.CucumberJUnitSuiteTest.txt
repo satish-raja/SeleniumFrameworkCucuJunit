@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.orangehrm.selenium.cucumber.runner.CucumberJUnitSuiteTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 16.66 s <<< FAILURE! -- in com.orangehrm.selenium.cucumber.runner.CucumberJUnitSuiteTest
+Login with Empty Credentials.Login with Empty Credentials - Login with Empty Credentials Should Display Error Messages -- Time elapsed: 4.861 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Error message for Username field does not match! ==> expected: <Require> but was: <Required>
+	at com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages(EmptyLoginStepDef.java:68)
+	at ✽.I should see error messages for blank username and password fields(classpath:features/LoginWithEmptyCredentials.feature:15)
+
+Login with Invalid Credentials - Login with Invalid Credentials Should Display Error Message - Examples.Login with Invalid Credentials - Login with Invalid Credentials Should Display Error Message - Examples - Example #1.2 -- Time elapsed: 14.56 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Error message not displayed as expected! ==> expected: <Invalid credentials> but was: <>
+	at com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(InvalidLoginStepDef.java:65)
+	at ✽.I should see an error message "Invalid credentials" on the Login page(classpath:features/LoginWithInvalidCredentials.feature:15)
+

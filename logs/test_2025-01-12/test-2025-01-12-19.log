@@ -1,0 +1,1145 @@
+2025-01-12T19:02:19,127 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:02:19,127 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:02:19,127 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:02:19,127 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:02:19,127 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:02:19,127 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:02:21,466 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (675b0541d1076d484aace2e9257edff7) at WebDriverHooks: setUp
+2025-01-12T19:02:21,476 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (c74a9b5cf23c2d8e5d0d123ecbc6689f) at WebDriverHooks: setUp
+2025-01-12T19:02:21,476 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (2d065ded071ce3edcac2c93484d487db) at WebDriverHooks: setUp
+2025-01-12T19:02:21,479 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (bc8e38b6ab1687112198cdde219744c5) at WebDriverHooks: setUp
+2025-01-12T19:02:21,479 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (238c41b2a4048777b39b8a26e8b9fa3f) at WebDriverHooks: setUp
+2025-01-12T19:02:21,479 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (00e7063ee38984cb04b259ee233a37ad) at WebDriverHooks: setUp
+2025-01-12T19:02:24,180 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:02:24,195 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:02:24,253 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:02:24,462 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:02:24,462 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:02:24,600 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:02:24,736 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:02:24,741 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:02:24,747 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:02:24,748 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:02:24,822 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:02:24,826 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:02:24,826 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:02:24,829 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:02:24,941 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:02:24,944 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:02:25,019 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:02:25,019 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:02:25,020 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:02:25,020 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:02:25,073 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:02:25,074 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:02:25,076 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:02:25,120 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:02:25,120 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:02:25,159 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:02:25,161 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:02:25,280 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:02:25,283 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:02:25,299 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:02:25,396 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:02:25,401 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:02:25,401 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:02:25,403 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:02:25,405 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:02:25,405 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:02:25,407 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:02:25,629 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:02:25,629 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:02:25,950 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:02:25,951 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:02:25,952 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:02:26,162 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:02:26,224 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:02:26,225 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:02:26,297 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:02:26,297 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:02:26,717 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:02:26,718 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:02:26,718 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:02:27,255 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:02:28,739 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:02:28,739 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:05:02,561 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:02,561 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:02,561 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:02,561 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:02,561 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:02,561 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:04,721 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8ddb86f045a554378faac5daaf3a6d67) at WebDriverHooks: setUp
+2025-01-12T19:05:04,798 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (3d4171aae44c2cc9fc5f7e5faf9c0cb4) at WebDriverHooks: setUp
+2025-01-12T19:05:04,816 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (84e6600f33aa4678cd66b9b90ee3c3f0) at WebDriverHooks: setUp
+2025-01-12T19:05:04,836 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (7b59285e66df022a6d74c33ef4fcb42b) at WebDriverHooks: setUp
+2025-01-12T19:05:04,840 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (82300dd182f113e3e78b7b4572c487cb) at WebDriverHooks: setUp
+2025-01-12T19:05:04,841 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (c8c7c8c32fba522f725a0f315a8471b4) at WebDriverHooks: setUp
+2025-01-12T19:05:07,462 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:07,564 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:07,569 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:07,812 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:07,916 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:08,004 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:08,029 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:08,034 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:05:08,109 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:05:08,129 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:08,131 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:05:08,145 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:08,148 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:05:08,203 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:05:08,231 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:05:08,351 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:05:08,374 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:08,376 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:05:08,453 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:05:08,482 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:08,484 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:05:08,540 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:05:08,543 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:05:08,591 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:08,593 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:05:08,637 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:05:08,646 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:08,647 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:05:08,649 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:05:08,666 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:05:08,732 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:08,732 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:05:08,733 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:05:08,747 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:05:08,847 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:08,847 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:05:08,848 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:05:08,977 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:05:08,977 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:05:09,358 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:09,359 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:05:09,360 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:05:09,510 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:05:09,575 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:05:09,575 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:05:09,579 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:09,579 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:05:09,580 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:05:09,637 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:09,637 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:05:10,119 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:05:11,610 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:05:11,611 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:05:36,589 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:05:37,826 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ac257edeee353f75711648e1ea353c28) at WebDriverHooks: setUp
+2025-01-12T19:05:40,661 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:05:41,320 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:05:41,324 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:05:41,364 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:05:41,414 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:05:41,493 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:05:41,493 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:05:41,494 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:07:05,463 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:07:06,647 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (e2e78aeacc7a8d190f9d233d70cf92cf) at WebDriverHooks: setUp
+2025-01-12T19:07:09,503 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:07:10,153 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:07:10,158 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:07:10,204 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:07:10,258 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:07:11,481 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:07:11,481 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:07:11,482 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:07:12,138 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:07:12,791 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ab46eca1d744e4c3eb37310e911a181f) at WebDriverHooks: setUp
+2025-01-12T19:07:15,312 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:07:15,853 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:07:15,854 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:07:15,911 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:07:15,970 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:07:16,029 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:07:16,029 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:07:16,030 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:07:17,565 [main] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:07:18,221 [main] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (db284502189c5c7ac5ea040f19826dfd) at WebDriverHooks: setUp
+2025-01-12T19:07:20,665 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:07:21,211 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:07:21,213 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:07:21,268 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:07:21,324 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:07:22,307 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:07:22,307 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:07:22,310 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:10:13,945 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:10:13,945 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:10:13,945 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:10:13,945 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:10:13,945 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:10:13,945 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:10:16,053 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (60b425dba532de8d0e7f087c3660f346) at WebDriverHooks: setUp
+2025-01-12T19:10:16,062 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (d5c744946eba10d8f814e1ef54e960e8) at WebDriverHooks: setUp
+2025-01-12T19:10:16,064 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (963ff9ce10ed6221ea60112bf49705fe) at WebDriverHooks: setUp
+2025-01-12T19:10:16,130 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (98af68ffafa0da520e86244c24805265) at WebDriverHooks: setUp
+2025-01-12T19:10:16,157 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (519aa721fdad5f75997a9631496089c7) at WebDriverHooks: setUp
+2025-01-12T19:10:16,157 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (6098ae01213b20162bdefa463ede7a4b) at WebDriverHooks: setUp
+2025-01-12T19:10:18,739 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:10:18,829 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:10:18,945 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:10:18,978 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:10:19,152 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:10:19,247 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:10:19,316 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:10:19,321 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:10:19,392 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:10:19,396 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:10:19,412 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:10:19,470 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:10:19,504 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:10:19,518 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:10:19,519 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:10:19,546 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:10:19,548 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:10:19,585 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:10:19,647 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:10:19,735 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:10:19,737 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:10:19,775 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:10:19,806 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:10:19,808 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:10:19,819 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:10:19,862 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:10:19,881 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:10:19,881 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:10:19,883 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:10:19,914 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:10:19,946 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:10:20,029 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:10:20,029 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:10:20,030 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:10:20,337 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:10:20,337 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:10:20,641 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:10:20,641 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:10:20,642 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:10:20,873 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:10:20,915 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:10:20,915 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:10:20,916 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:10:20,941 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:10:20,941 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:10:21,010 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:10:21,010 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:10:21,071 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:10:21,071 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:10:21,072 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:10:21,459 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:10:22,971 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:10:22,972 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:15:41,109 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:15:41,109 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:15:41,109 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:15:41,109 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:15:41,109 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:15:41,109 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:15:43,460 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (03bb931d4a67d41512d99245dddcfa2c) at WebDriverHooks: setUp
+2025-01-12T19:15:43,460 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (d68a2b798fb7d03958e530b6f82c9dce) at WebDriverHooks: setUp
+2025-01-12T19:15:43,465 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (3c0e068daf439b1dbeff1fbbbbebd744) at WebDriverHooks: setUp
+2025-01-12T19:15:43,466 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (4126d977a1d2bcd8b87be105ee7ec853) at WebDriverHooks: setUp
+2025-01-12T19:15:43,469 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (71e3750127dd393d1f18d342edf56d04) at WebDriverHooks: setUp
+2025-01-12T19:15:43,469 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (43150fb3887bee2e7482e3f0c85da25c) at WebDriverHooks: setUp
+2025-01-12T19:15:45,988 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:15:46,181 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:15:46,306 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:15:46,457 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:15:46,519 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:15:46,558 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:15:46,568 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:15:46,637 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:15:46,675 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:15:46,716 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:15:46,747 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:15:46,748 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:15:46,803 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:15:46,882 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:15:46,885 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:15:46,889 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:15:46,955 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:15:46,988 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:15:46,989 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:15:46,991 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:15:47,045 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:15:47,047 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:15:47,081 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:15:47,084 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:15:47,093 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:15:47,144 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:15:47,241 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:15:47,245 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:15:47,282 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:15:47,319 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:15:47,367 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:15:47,367 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:15:47,368 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:15:47,405 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:15:47,875 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:15:47,875 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:15:48,046 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:15:48,046 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:15:48,047 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:15:48,382 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:15:48,382 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:15:48,384 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:15:48,422 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:15:48,487 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:15:48,488 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:15:48,493 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:15:48,493 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:15:48,494 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:15:48,561 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:15:48,562 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:15:48,590 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:15:50,066 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:15:50,067 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:16:12,934 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:16:12,934 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:16:12,934 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:16:12,934 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:16:12,934 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:16:12,934 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:16:15,304 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (093b2078c1e95436638367f3c79577ce) at WebDriverHooks: setUp
+2025-01-12T19:16:15,304 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (af5979d6a24ed08f6ac7a423fb9e4bbd) at WebDriverHooks: setUp
+2025-01-12T19:16:15,304 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (3755db931aba5e8516efb895b8ae4d90) at WebDriverHooks: setUp
+2025-01-12T19:16:15,304 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8c813396c9fc3b04756dac59709be06b) at WebDriverHooks: setUp
+2025-01-12T19:16:15,304 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (7a9f466a48a99c016ac5464a0b1682f9) at WebDriverHooks: setUp
+2025-01-12T19:16:15,306 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (4d2cc712383b3552da6766178cb37978) at WebDriverHooks: setUp
+2025-01-12T19:16:17,872 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:16:17,997 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:16:18,009 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:16:18,067 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:16:18,117 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:16:18,117 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:16:18,443 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:16:18,450 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:16:18,542 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:16:18,576 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:16:18,576 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:16:18,579 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:16:18,579 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:16:18,677 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:16:18,682 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:16:18,755 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:16:18,755 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:16:18,767 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:16:18,787 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:16:18,788 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:16:18,791 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:16:18,797 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:16:18,880 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:16:18,881 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:16:18,948 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:16:18,958 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:16:18,958 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:16:18,961 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:16:18,964 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:16:18,986 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:16:19,005 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:16:19,056 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:16:19,057 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:16:19,058 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:16:19,084 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:16:19,084 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:16:19,086 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:16:19,487 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:16:19,487 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:16:20,023 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:16:20,085 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:16:20,086 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:16:20,153 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:16:20,154 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:16:20,272 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:16:20,272 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:16:20,273 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:16:20,311 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:16:20,312 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:16:20,313 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:16:20,861 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:16:22,375 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:16:22,376 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:20:01,745 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:20:01,745 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:20:01,745 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:20:01,745 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:20:01,745 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:20:01,745 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:20:03,976 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (55a6971a11de8483ae3f67f8058f7ba4) at WebDriverHooks: setUp
+2025-01-12T19:20:03,988 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8c327d9af5f02d94a34ab01ece170370) at WebDriverHooks: setUp
+2025-01-12T19:20:03,991 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (f9e2f32c13f90569db87ae29d3d9d45e) at WebDriverHooks: setUp
+2025-01-12T19:20:03,993 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (553f95ec64a3e9c59abca8b35eb2d6dc) at WebDriverHooks: setUp
+2025-01-12T19:20:03,997 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (a2333083667bb83443220d194671678f) at WebDriverHooks: setUp
+2025-01-12T19:20:03,997 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8505b3f6f91c8168b9301449fa6d2857) at WebDriverHooks: setUp
+2025-01-12T19:20:06,651 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:20:06,744 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:20:06,809 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:20:06,942 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:20:07,018 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:20:07,040 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:20:07,210 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:20:07,214 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:20:07,285 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:20:07,308 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:20:07,311 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:20:07,382 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:20:07,397 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:20:07,400 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:20:07,416 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:20:07,482 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:20:07,521 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:20:07,524 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:20:07,562 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:20:07,592 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:20:07,595 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:20:07,601 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:20:07,608 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:20:07,610 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:20:07,696 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:20:07,713 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:20:07,754 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:20:07,755 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:20:07,759 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:20:07,792 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:20:07,810 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:20:07,927 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:20:07,927 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:20:07,928 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:20:08,336 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:20:08,337 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:20:08,429 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:20:08,429 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:20:08,430 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:20:08,885 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:20:08,924 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:20:08,924 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:20:08,925 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:20:08,955 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:20:08,956 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:20:09,032 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:20:09,033 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:20:09,116 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:20:09,117 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:20:09,118 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:20:09,467 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:20:10,968 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:20:10,969 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:21:52,426 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:21:52,426 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:21:52,426 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:21:52,426 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:21:52,426 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:21:52,426 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:21:54,664 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (7aca82addc6c28f61533f56276220ca8) at WebDriverHooks: setUp
+2025-01-12T19:21:54,678 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (9cb477c5cfe92981fb913048bca4a9a5) at WebDriverHooks: setUp
+2025-01-12T19:21:54,680 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (e7b8df13b83c90f4c59ff1d8a2ed9226) at WebDriverHooks: setUp
+2025-01-12T19:21:54,680 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (77b6dd727c37be79acf06df658583125) at WebDriverHooks: setUp
+2025-01-12T19:21:54,680 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (66231c582171f147e58a6e11e4beaa8a) at WebDriverHooks: setUp
+2025-01-12T19:21:54,684 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (a253013299c7b88950d67cd4c01046cc) at WebDriverHooks: setUp
+2025-01-12T19:21:57,213 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:21:57,262 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:21:57,457 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:21:57,484 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:21:57,679 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:21:57,767 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:21:57,768 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:21:57,773 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:21:57,812 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:21:57,815 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:21:57,849 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:21:57,899 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:21:57,932 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:21:57,982 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:21:58,019 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:21:58,023 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:21:58,025 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:21:58,025 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:21:58,028 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:21:58,040 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:21:58,043 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:21:58,123 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:21:58,124 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:21:58,126 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:21:58,142 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:21:58,247 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:21:58,251 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:21:58,284 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:21:58,340 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:21:58,340 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:21:58,343 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:21:58,416 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:21:58,435 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:21:58,492 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:21:58,868 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:21:58,869 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:21:59,403 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:21:59,406 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:21:59,406 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:21:59,407 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:21:59,467 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:21:59,468 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:21:59,532 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:21:59,532 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:21:59,648 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:21:59,649 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:21:59,650 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:21:59,806 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:21:59,806 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:21:59,808 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:22:00,191 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:22:01,701 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:22:01,702 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:29:31,792 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:29:31,792 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:29:31,792 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:29:31,792 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:29:31,792 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:29:31,792 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:29:34,216 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (860e160261638e459ed86c39062ba251) at WebDriverHooks: setUp
+2025-01-12T19:29:34,221 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (e84d2ee71c501dda218496bf635dc368) at WebDriverHooks: setUp
+2025-01-12T19:29:34,226 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (f80579058999bbb799cc6c69c89b08bd) at WebDriverHooks: setUp
+2025-01-12T19:29:34,226 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (63eee922f290186e22d3f4f035d56bc1) at WebDriverHooks: setUp
+2025-01-12T19:29:34,227 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (4322aee49bc84f5f04fb229013a6ba6f) at WebDriverHooks: setUp
+2025-01-12T19:29:34,233 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (54ceb014f8447f3d4f33a1e70c4f0689) at WebDriverHooks: setUp
+2025-01-12T19:29:36,897 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:29:37,004 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:29:37,226 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:29:37,254 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:29:37,372 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:29:37,440 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:29:37,466 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:29:37,471 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:29:37,538 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:29:37,562 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:29:37,564 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:29:37,623 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:29:37,629 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:29:37,713 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:29:37,778 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:29:37,780 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:29:37,822 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:29:37,826 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:29:37,845 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:29:37,846 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:29:37,848 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:29:37,889 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:29:37,923 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:29:37,981 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:29:37,984 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:29:38,024 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:29:38,030 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:29:38,044 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:29:38,082 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:29:38,119 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:29:38,223 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:29:38,665 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:29:38,665 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:29:38,667 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:29:38,843 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:29:38,844 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:29:39,056 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:29:39,057 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:29:39,058 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:29:39,383 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:29:39,453 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:29:39,453 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:29:39,455 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:29:39,461 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:29:39,461 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:29:39,496 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:29:39,496 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:29:39,497 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:29:39,526 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:29:39,527 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:29:39,993 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:29:41,479 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:29:41,479 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:30:13,974 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:30:13,974 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:30:13,974 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:30:13,974 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:30:13,974 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:30:13,974 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:30:16,223 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (142f298c7f9198612d572cafdadec506) at WebDriverHooks: setUp
+2025-01-12T19:30:16,229 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (66bd711f6ef7e3016d8cf02a33ad6761) at WebDriverHooks: setUp
+2025-01-12T19:30:16,229 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (df804416c76ab77adb6b3ef73c643c1d) at WebDriverHooks: setUp
+2025-01-12T19:30:16,313 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (a539c7464f243c319d07115be13eb5b5) at WebDriverHooks: setUp
+2025-01-12T19:30:16,313 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (0f1bc2dfa556d8c7f6210792c7451a19) at WebDriverHooks: setUp
+2025-01-12T19:30:16,313 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (6532a9de4dc6dec0e4e3b171bbdea50d) at WebDriverHooks: setUp
+2025-01-12T19:30:18,745 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:30:18,937 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:30:19,232 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:30:19,262 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:30:19,305 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:30:19,310 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:30:19,388 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:30:19,389 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:30:19,391 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:30:19,465 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:30:19,484 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:30:19,486 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:30:19,529 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:30:19,540 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:30:19,540 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:30:19,542 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:30:19,599 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:30:19,680 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:30:19,681 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:30:19,682 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:30:19,813 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:30:19,820 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:30:19,850 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:30:19,852 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:30:19,900 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:30:19,951 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:30:19,951 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:30:19,954 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:30:19,954 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:30:20,009 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:30:20,047 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:30:20,047 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:30:20,132 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:30:20,138 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:30:20,664 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:30:20,664 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:30:21,033 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:30:21,034 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:30:21,035 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:30:21,099 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:30:21,099 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:30:21,101 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:30:21,199 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:30:21,266 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:30:21,267 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:30:21,331 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:30:21,340 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:30:21,341 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:30:21,442 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:30:21,443 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:30:21,444 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:30:22,894 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:30:22,895 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:34:36,919 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:34:36,919 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:34:36,919 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:34:36,919 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:34:36,919 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:34:36,919 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:34:39,181 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (7fb0e3f36494a995e2099913eada5c44) at WebDriverHooks: setUp
+2025-01-12T19:34:39,195 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (51ab9ab25eca7466762ff78c6613bb0e) at WebDriverHooks: setUp
+2025-01-12T19:34:39,197 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (05ae613da9b02c515f5ab6ebacd29b5c) at WebDriverHooks: setUp
+2025-01-12T19:34:39,199 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (034145579be6cdcaa554d6b50faf3a20) at WebDriverHooks: setUp
+2025-01-12T19:34:39,199 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ed28e8ea88e4f7d920f327fafb9be8e3) at WebDriverHooks: setUp
+2025-01-12T19:34:39,200 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (87548c114ac6ca025bf597b99956568c) at WebDriverHooks: setUp
+2025-01-12T19:34:41,784 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:34:41,868 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:34:42,108 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:34:42,154 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:34:42,174 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:34:42,206 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:34:42,336 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:34:42,342 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:34:42,419 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:34:42,433 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:34:42,436 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:34:42,516 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:34:42,518 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:34:42,620 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:34:42,676 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:34:42,678 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:34:42,725 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:34:42,728 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:34:42,742 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:34:42,745 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:34:42,753 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:34:42,753 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:34:42,758 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:34:42,772 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:34:42,782 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:34:42,785 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:34:42,843 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:34:42,874 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:34:42,884 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:34:42,972 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:34:42,993 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:34:43,083 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:34:43,084 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:34:43,085 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:34:43,560 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:34:43,561 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:34:43,837 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:34:43,837 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:34:43,839 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:34:43,896 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:34:43,897 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:34:43,898 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:34:44,094 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:34:44,160 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:34:44,161 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:34:44,240 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:34:44,241 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:34:44,316 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:34:44,316 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:34:44,317 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:34:44,855 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:34:46,359 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:34:46,359 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:35:27,755 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:35:27,755 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:35:27,755 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:35:27,755 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:35:27,755 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:35:27,755 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:35:30,049 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (b2a37d39d3e8a919c9a1d90b8aaaff07) at WebDriverHooks: setUp
+2025-01-12T19:35:30,061 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (5ae73df7ad5aef7dbe50417181932a49) at WebDriverHooks: setUp
+2025-01-12T19:35:30,065 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (f1e16c39c667c8a33e3aa7d777d11e63) at WebDriverHooks: setUp
+2025-01-12T19:35:30,067 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (d831f154946ee8d62e872eff25636d97) at WebDriverHooks: setUp
+2025-01-12T19:35:30,078 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (36cf5a7619fd87c59ee0083954666db1) at WebDriverHooks: setUp
+2025-01-12T19:35:30,079 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (c155e6f3f3bd47fab76ff6d6ee8c85f0) at WebDriverHooks: setUp
+2025-01-12T19:35:32,652 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:35:32,710 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:35:32,826 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:35:33,048 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:35:33,063 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:35:33,130 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:35:33,212 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:35:33,216 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:35:33,269 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:35:33,272 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:35:33,353 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:35:33,383 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:35:33,385 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:35:33,448 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:35:33,459 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:35:33,552 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:35:33,554 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:35:33,554 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:35:33,557 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:35:33,610 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:35:33,612 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:35:33,630 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:35:33,632 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:35:33,664 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:35:33,665 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:35:33,667 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:35:33,710 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:35:33,716 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:35:33,724 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:35:33,744 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:35:33,829 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:35:33,876 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:35:33,884 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:35:33,948 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:35:33,982 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:35:33,983 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:35:33,985 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:35:34,102 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:35:34,102 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:35:34,637 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:35:34,697 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:35:34,697 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:35:34,761 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:35:34,762 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:35:34,930 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:35:34,930 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:35:34,931 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:35:35,206 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:35:35,206 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:35:35,208 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:35:35,329 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:35:36,862 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:35:36,862 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:40:22,572 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:40:22,572 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:40:22,572 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:40:22,572 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:40:22,572 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:40:22,572 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:40:25,294 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (07e2d6d9f5e5ec750f8fba348f2c39f2) at WebDriverHooks: setUp
+2025-01-12T19:40:25,301 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ea1ee96f3a28c724b684fab98d5d7d1d) at WebDriverHooks: setUp
+2025-01-12T19:40:25,302 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (aa1f46b9755e26db8842e19a4b2150b2) at WebDriverHooks: setUp
+2025-01-12T19:40:25,304 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (e2f786e8b7bc41fec6dc47fd00121cf5) at WebDriverHooks: setUp
+2025-01-12T19:40:25,304 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (b878bb602c6dbbc81fdb30809901904f) at WebDriverHooks: setUp
+2025-01-12T19:40:25,304 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (5f06f5efb2c29b0f50f30851ef8051a4) at WebDriverHooks: setUp
+2025-01-12T19:40:27,949 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:40:28,001 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:40:28,118 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:40:28,420 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:40:28,512 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:40:28,513 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:40:28,520 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:40:28,552 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:40:28,554 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:40:28,603 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:40:28,626 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:40:28,689 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:40:28,692 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:40:28,695 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:40:28,724 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:40:28,726 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:40:28,966 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:40:28,969 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:40:29,030 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:40:29,065 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:40:29,068 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:40:29,123 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:40:29,141 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:40:29,217 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:40:29,218 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:40:29,220 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:40:29,233 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:40:29,280 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:40:29,282 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:40:29,337 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:40:29,402 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:40:29,491 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:40:29,491 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:40:29,493 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:40:29,501 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:40:29,502 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:40:29,732 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:40:29,732 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:40:29,733 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:40:29,997 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:40:29,998 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:40:29,999 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:40:30,051 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:40:30,128 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:40:30,129 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:40:30,193 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:40:30,194 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:40:30,556 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:40:30,556 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:40:30,558 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:40:31,097 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:40:32,607 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:40:32,608 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:42:30,254 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:42:30,254 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:42:30,254 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:42:30,254 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:42:30,254 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:42:30,254 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:42:32,472 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (70ac6c2cb2e09390cfaecb9dd2ef7e5b) at WebDriverHooks: setUp
+2025-01-12T19:42:32,479 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (f93359692ab2559e58b9c4e866c2e2b6) at WebDriverHooks: setUp
+2025-01-12T19:42:32,481 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (5763ce2184cda15ee5c2578c52628257) at WebDriverHooks: setUp
+2025-01-12T19:42:32,485 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (42460bc9c9cae31459dd96d32210ccda) at WebDriverHooks: setUp
+2025-01-12T19:42:32,485 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (5330ee1c5476aaa564fdad9357fde92e) at WebDriverHooks: setUp
+2025-01-12T19:42:32,485 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ebbfa3061c18e71bbc1bf0331f709151) at WebDriverHooks: setUp
+2025-01-12T19:42:35,038 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:42:35,084 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:42:35,101 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:42:35,109 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:42:35,532 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:42:35,563 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:42:35,596 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:42:35,603 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:42:35,638 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:42:35,641 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:42:35,684 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:42:35,684 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:42:35,686 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:42:35,686 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:42:35,689 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:42:35,743 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:42:35,793 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:42:35,823 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:42:35,875 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:42:35,912 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:42:36,026 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:42:36,026 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:42:36,028 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:42:36,088 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:42:36,090 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:42:36,134 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:42:36,137 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:42:36,182 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:42:36,212 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:42:36,281 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:42:36,311 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:42:36,500 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:42:36,501 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:42:36,850 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:42:36,850 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:42:36,851 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:42:36,920 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:42:36,920 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:42:36,921 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:42:37,047 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:42:37,109 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:42:37,109 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:42:37,168 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:42:37,169 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:42:37,556 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:42:37,556 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:42:37,558 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:42:37,635 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:42:37,635 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:42:37,636 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:42:38,183 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:42:39,637 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:42:39,638 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:46:11,097 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:46:11,097 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:46:11,097 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:46:11,097 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:46:11,097 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:46:11,097 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:46:13,284 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (7d2367f364dc3e180592fcd2bcf04010) at WebDriverHooks: setUp
+2025-01-12T19:46:13,289 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (6304bf44bddc067d500ed767e58bc951) at WebDriverHooks: setUp
+2025-01-12T19:46:13,291 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (50a211ba11de0d4bb99c2bfc3d8fe290) at WebDriverHooks: setUp
+2025-01-12T19:46:13,293 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (5b1291688c90cf9feae2508348a690ca) at WebDriverHooks: setUp
+2025-01-12T19:46:13,294 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (53c117a88affc7d88ec37bc8fbd7c3cf) at WebDriverHooks: setUp
+2025-01-12T19:46:13,294 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (24df12d0db184c9f53fb3874ff0e0a91) at WebDriverHooks: setUp
+2025-01-12T19:46:16,024 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:46:16,193 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:46:16,344 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:46:16,348 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:46:16,350 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:46:16,570 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:46:16,588 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:46:16,594 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:46:16,647 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:46:16,730 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:46:16,746 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:46:16,749 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:46:16,817 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:46:16,818 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:46:16,819 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:46:16,823 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:46:16,907 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:46:16,907 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:46:16,907 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:46:16,909 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:46:16,909 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:46:16,910 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:46:16,921 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:46:16,993 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:46:17,016 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:46:17,019 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:46:17,068 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:46:17,069 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:46:17,072 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:46:17,123 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:46:17,147 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:46:17,164 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:46:17,174 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:46:17,177 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:46:17,267 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:46:17,268 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:46:17,271 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:46:17,280 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:46:17,281 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:46:17,283 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:46:17,290 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:46:17,290 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:46:17,293 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:46:18,066 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:46:18,066 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:46:18,600 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:46:18,660 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:46:18,661 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:46:18,724 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:46:18,725 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:46:18,901 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:46:20,377 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:46:20,378 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:49:11,429 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:49:11,429 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:49:11,429 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:49:11,429 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:49:11,429 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:49:11,429 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:49:13,788 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (91ef54afbb98c9f05a7981b1e2e0d437) at WebDriverHooks: setUp
+2025-01-12T19:49:13,789 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (2a99143ce2cda2e37bf5442874fddec6) at WebDriverHooks: setUp
+2025-01-12T19:49:13,796 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (558f85138b3354e43a7784034de210d6) at WebDriverHooks: setUp
+2025-01-12T19:49:13,796 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (6b7c4c908fce774cac24e4f82289f864) at WebDriverHooks: setUp
+2025-01-12T19:49:13,796 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8f1a312f70382f6944f3713d60647d8e) at WebDriverHooks: setUp
+2025-01-12T19:49:13,796 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (e740daeca3778a234f8495206be6bbaf) at WebDriverHooks: setUp
+2025-01-12T19:49:16,409 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:49:16,472 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:49:16,495 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:49:16,563 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:49:16,598 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:49:16,871 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:49:16,976 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:49:16,983 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:49:17,044 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:49:17,047 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:49:17,050 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:49:17,063 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:49:17,066 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:49:17,126 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:49:17,130 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:49:17,141 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:49:17,142 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:49:17,145 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:49:17,230 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:49:17,233 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:49:17,282 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:49:17,287 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:49:17,318 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:49:17,319 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:49:17,321 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:49:17,381 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:49:17,403 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:49:17,449 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:49:17,450 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:49:17,454 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:49:17,457 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:49:17,470 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:49:17,473 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:49:17,563 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:49:17,595 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:49:17,595 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:49:17,597 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:49:18,291 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:49:18,291 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:49:18,569 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:49:18,569 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:49:18,570 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:49:18,826 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:49:18,896 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:49:18,896 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:49:18,898 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:49:18,903 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:49:18,904 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:49:18,972 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:49:18,973 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:49:19,439 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:49:20,943 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:49:20,944 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:52:29,675 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:52:29,675 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:52:29,675 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:52:29,675 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:52:29,675 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:52:29,675 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:52:31,965 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (7a480faad9b7e236d8e4a406be54743a) at WebDriverHooks: setUp
+2025-01-12T19:52:31,974 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (c6117a00f7c7fd7da0be0dc995dfeed2) at WebDriverHooks: setUp
+2025-01-12T19:52:31,975 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (478e32d9dc407a9844d0ff6eb1ee9530) at WebDriverHooks: setUp
+2025-01-12T19:52:31,975 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (44da394ce1263bc36edd6e9066415e16) at WebDriverHooks: setUp
+2025-01-12T19:52:31,977 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (b4efa46ace03432fc3a087476e7c681f) at WebDriverHooks: setUp
+2025-01-12T19:52:31,978 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (8f0a76056304bd17aec1bfa6b823e068) at WebDriverHooks: setUp
+2025-01-12T19:52:34,649 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:52:34,752 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:52:35,073 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:52:35,213 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:52:35,222 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:52:35,233 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:52:35,265 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:52:35,312 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:52:35,314 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:52:35,370 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:52:35,385 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:52:35,461 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:52:35,634 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:52:35,637 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:52:35,709 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:52:35,784 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:52:35,794 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:52:35,797 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:52:35,827 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:52:35,829 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:52:35,868 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:52:35,905 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:52:35,944 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:52:35,946 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:52:35,978 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:52:36,015 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:52:36,026 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:52:36,094 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:52:36,094 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:52:36,097 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:52:36,112 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:52:36,113 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:52:36,121 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:52:36,212 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:52:36,212 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:52:36,214 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:52:36,662 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:52:36,724 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:52:36,725 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:52:36,779 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:52:36,779 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:52:36,780 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:52:36,783 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:52:36,783 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:52:36,784 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:52:36,798 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:52:36,798 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:52:37,021 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:52:37,021 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:52:37,023 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:52:37,334 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:52:38,830 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:52:38,830 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-12T19:54:55,882 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:54:55,882 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:54:55,882 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:54:55,882 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:54:55,882 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:54:55,882 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-12T19:54:58,269 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (67831975bc5cc5b4859e29246c0fc7e9) at WebDriverHooks: setUp
+2025-01-12T19:54:58,277 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (4d4ef32171a0b9143ac90a3ef98b4e1b) at WebDriverHooks: setUp
+2025-01-12T19:54:58,279 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (27bab936aadf626bd17fe4152c8b6783) at WebDriverHooks: setUp
+2025-01-12T19:54:58,279 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (f7d5a68c361da524ef10ca2c222fdfbf) at WebDriverHooks: setUp
+2025-01-12T19:54:58,282 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ee7e0a423a72958ba843a5f501b3c775) at WebDriverHooks: setUp
+2025-01-12T19:54:58,289 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Driver Instance: ChromeDriver: chrome on windows (ea3aae0c5042bcca026f5005258ceb65) at WebDriverHooks: setUp
+2025-01-12T19:54:59,535 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:54:59,567 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:55:01,227 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:55:01,249 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:55:01,332 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:55:01,525 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-12T19:55:01,783 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:55:01,790 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-12T19:55:01,814 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:55:01,817 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-12T19:55:01,854 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered username: 
+2025-01-12T19:55:01,897 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:55:01,909 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:55:01,917 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-12T19:55:01,924 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:55:01,927 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-12T19:55:01,954 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Entered password: 
+2025-01-12T19:55:02,042 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-12T19:55:02,066 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:55:02,068 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:55:02,090 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:55:02,091 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:55:02,094 [ForkJoinPool-2-worker-2] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-12T19:55:02,118 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:55:02,121 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-12T19:55:02,158 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-12T19:55:02,161 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-12T19:55:02,212 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:55:02,221 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Entered password: admin123
+2025-01-12T19:55:02,295 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:55:02,376 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:55:02,376 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:55:02,378 [ForkJoinPool-2-worker-6] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:55:02,410 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:55:02,411 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:55:02,414 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Entered password: admin
+2025-01-12T19:55:02,421 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-12T19:55:02,509 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:55:02,510 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:55:02,511 [ForkJoinPool-2-worker-5] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:55:02,905 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-12T19:55:02,906 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-12T19:55:03,164 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:55:03,164 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-12T19:55:03,165 [ForkJoinPool-2-worker-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-12T19:55:03,449 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-12T19:55:03,515 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Entered username: Admin
+2025-01-12T19:55:03,516 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-12T19:55:03,585 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Clicked login button
+2025-01-12T19:55:03,586 [ForkJoinPool-2-worker-1] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-12T19:55:04,174 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-12T19:55:05,682 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Clicked logout link
+2025-01-12T19:55:05,682 [ForkJoinPool-2-worker-4] INFO  LogUtil:60 - Verifying successful navigation to the Login page.

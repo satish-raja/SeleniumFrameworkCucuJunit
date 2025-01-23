@@ -65,7 +65,7 @@ public class EmptyLoginStepDef {
         Allure.addAttachment("Password Error Message", passwordErrorMessage);
 
         try {
-            Assertions.assertEquals("Require", usernameErrorMessage, "Error message for Username field does not match!");
+            Assertions.assertEquals("Required", usernameErrorMessage, "Error message for Username field does not match!");
             Assertions.assertEquals("Required", passwordErrorMessage, "Error message for Password field does not match!");
         } catch (AssertionError e) {
         	CommonStepDef.takeScreenshot(driver, "Assertion Failed: Error message not displayed as expected");
